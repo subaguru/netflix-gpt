@@ -85,6 +85,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 - Browse(After authentication)
     - Header
+    - Login Form
     - Main Movie
         - Trailer in background
         -Title & Description
